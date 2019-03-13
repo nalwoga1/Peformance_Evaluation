@@ -12,7 +12,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import com.muhiza.model.Employee;
 /**
  *
- * @author MacIvan
+ * @author Ritah
  */
 public class DepartmentDAOImpl implements DepartmentDAO {
     

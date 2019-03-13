@@ -11,7 +11,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author MacIvan
+ * @author Ritah
  */
 public class Department {
     
@@ -31,7 +31,7 @@ public class Department {
 		return DeptName;
 	}
 
-	public void setFirstName(String DeptName) {
+	public void setDeptName(String DeptName) {
 		this.DeptName = DeptName;
 	}
 
